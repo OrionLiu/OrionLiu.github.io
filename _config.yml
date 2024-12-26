@@ -26,7 +26,7 @@ url                      : #"https://OrionLiu.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/web_source/logo.webp"
+logo                     : "/web_resource/logo.webp"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Haotian Liu"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/web_resource/portrait.jpg"
   bio              : "Master's student in Civil Engineering at Tongji University"
   location         : "Somewhere"
   email            :
@@ -136,7 +136,7 @@ author:
       url: "https://github.com/OrionLiu"
     - label: "CV"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/OrionLiu"
+      url: "https://OrionLiu.github.io"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
     #   # url: "https://instagram.com/"
