@@ -116,12 +116,12 @@ author:
   name             : "Haotian Liu"
   avatar           : "/web_resource/portrait.jpg"
   bio              : "Master's student in Civil Engineering at Tongji University"
-  location         : "Somewhere"
+  location         : "China"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "haotianliu@tongji.edu.cn"
+      url: "mailto:haotianliu@tongji.edu.cn"
     # - label: "Website"
       # icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
