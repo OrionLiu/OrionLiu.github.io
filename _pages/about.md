@@ -48,11 +48,11 @@ Yuzhen He, Zhaoqi Huang, **Haotian Liu**, Jingang Ye, Yujie Lu, Xianzhong Zhao
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RCIM 2026</div><img src='images/RCIM2026-framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A domain-informed learning framework for seam extraction in robotic welding: Generalizing to unseen seam topologies from unstructured workpieces(under review)](files/AIC2025.pdf)
+[A domain-informed learning framework for seam extraction in robotic welding: Generalizing to unseen seam topologies from unstructured workpieces (under review)](files/AIC2025.pdf)
 
 Xianzhong Zhao, **Haotian Liu**, Jingang Ye, Yujie Lu, Xianzhong Zhao
 
-**Automation in Construction**
+**Robotics and Computer-Integrated Manufacturing**
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=a0dHLswAAAAJ&citation_for_view=a0dHLswAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='a0dHLswAAAAJ:u5HHmVD_uO8C'></span></strong>
 
