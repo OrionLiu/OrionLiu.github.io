@@ -7,6 +7,12 @@ import os
 # Setup proxy
 pg = ProxyGenerator()
 pg.FreeProxies()  # Use free rotating proxies
+ok = pg.FreeProxies()
+print("FreeProxies ok:", ok)
+if ok:
+    scholarly.use_proxy(pg)
+else:
+    print("No free proxies available; continue without proxy")
 scholarly.use_proxy(pg)
 
 author: dict = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
