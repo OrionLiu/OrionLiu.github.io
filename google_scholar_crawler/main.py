@@ -9,6 +9,7 @@ import requests
 from bs4 import BeautifulSoup
 import os
 
+#判断是否是反扒
 def preflight_check(scholar_id: str):
     url = f"https://scholar.google.com/citations?user={scholar_id}&hl=en"
     headers = {
@@ -38,12 +39,14 @@ preflight_check(os.environ["GOOGLE_SCHOLAR_ID"])
 # Setup proxy
 pg = ProxyGenerator()
 pg.FreeProxies()  # Use free rotating proxies
+
 ok = pg.FreeProxies()
 print("FreeProxies ok:", ok)
 if ok:
     scholarly.use_proxy(pg)
 else:
     print("No free proxies available; continue without proxy")
+
 scholarly.use_proxy(pg)
 
 author: dict = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
