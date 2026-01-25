@@ -67,8 +67,8 @@ Xianzhong Zhao, **Haotian Liu**, Jingang Ye, Yujie Lu, Xianzhong Zhao
 - *2019-2021* First Prize, HFUT Outstanding Student Scholarship  (×3)
 
 # 📖 Educations
-- *2020.09 - 2025.07*, Tongji University (Master) , advised by Xianzhong Zhao. 
-- *2015.09 - 2019.06*, Hefei University of Technology (Bachelor). 
+- *2022.09 - 2025.07*, Tongji University (Master) , advised by Xianzhong Zhao. 
+- *2018.09 - 2022.06*, Hefei University of Technology (Bachelor). 
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
