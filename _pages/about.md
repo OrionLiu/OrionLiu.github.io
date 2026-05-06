@@ -50,7 +50,7 @@ Yuzhen He, Zhaoqi Huang, **Haotian Liu**, Jingang Ye, Yujie Lu, Xianzhong Zhao
 
 [A domain-informed learning framework for seam extraction in robotic welding: Generalizing to unseen seam topologies from unstructured workpieces (under review)](files/AIC2025.pdf)
 
-Xianzhong Zhao, **Haotian Liu**, Jingang Ye, Yujie Lu, Xianzhong Zhao
+Xianzhong Zhao, **Haotian Liu**, Zhaoqi Huang, Yuzhen He
 
 **Under Review**
 
