@@ -27,9 +27,25 @@ My research interest includes Embodied Intelligence and Robotic construction.
 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 Our new paper has been accepted by *Robotics and Computer-Integrated Manufacturing*.
 - *2025.04*: &nbsp;🎉🎉 Our new paper has been accepted by *Automation in Construction*. 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/RCIM2026-framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A domain-informed learning framework for seam extraction in robotic welding: Generalizing to unseen seam topologies from unstructured workpieces (under review)](files/RCIM2026.pdf)
+
+Xianzhong Zhao, **Haotian Liu**, Zhaoqi Huang, Yuzhen He
+
+**Under Review**
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=a0dHLswAAAAJ&citation_for_view=a0dHLswAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='a0dHLswAAAAJ:u5HHmVD_uO8C'></span></strong>
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIC 2025</div><img src='images/AIC2025-framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -39,20 +55,6 @@ My research interest includes Embodied Intelligence and Robotic construction.
 Yuzhen He, Zhaoqi Huang, **Haotian Liu**, Jingang Ye, Yujie Lu, Xianzhong Zhao
 
 **Automation in Construction**
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=a0dHLswAAAAJ&citation_for_view=a0dHLswAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='a0dHLswAAAAJ:u5HHmVD_uO8C'></span></strong>
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/RCIM2026-framework.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[A domain-informed learning framework for seam extraction in robotic welding: Generalizing to unseen seam topologies from unstructured workpieces (under review)](files/AIC2025.pdf)
-
-Xianzhong Zhao, **Haotian Liu**, Zhaoqi Huang, Yuzhen He
-
-**Under Review**
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=a0dHLswAAAAJ&citation_for_view=a0dHLswAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='a0dHLswAAAAJ:u5HHmVD_uO8C'></span></strong>
 
