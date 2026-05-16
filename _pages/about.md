@@ -41,7 +41,7 @@ Xianzhong Zhao, **Haotian Liu**, Zhaoqi Huang, Yuzhen He
 
 **Robotics and Computer-Integrated Manufacturing**
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=a0dHLswAAAAJ&citation_for_view=a0dHLswAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='a0dHLswAAAAJ:u5HHmVD_uO8C'></span></strong>
+[**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=a0dHLswAAAAJ&authuser=2&citation_for_view=a0dHLswAAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='a0dHLswAAAAJ:u5HHmVD_uO8C'></span></strong>
 
 </div>
 </div>
