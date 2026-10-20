@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am **Haotian Liu (刘灏天)**, a Master student at Tongji University advised by Prof. Xianzhong Zhao since 2022 Fall. I received my bachelor’s degree with honors from Hefei University of Technology.
+I am **Haotian Liu (刘灏天)**, a PhD student at McGill University since 2026 Fall. I received my Master’s degree from Tongji University, advised by Prof. Xianzhong Zhao, and my bachelor’s degree with honors from Hefei University of Technology.
 
 My research interest includes Embodied Intelligence and Robotic construction.
 
