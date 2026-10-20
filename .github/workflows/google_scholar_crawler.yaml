@@ -26,6 +26,9 @@ jobs:
             git add *.json
             git commit -m "Updated Citation Data"
             git push "${remote_repo}" HEAD:google-scholar-stats --force
+            # Refresh the jsDelivr CDN cache so the site shows the new numbers right away
+            curl -s "https://purge.jsdelivr.net/gh/${GITHUB_REPOSITORY}@google-scholar-stats/gs_data.json" > /dev/null || true
+            curl -s "https://purge.jsdelivr.net/gh/${GITHUB_REPOSITORY}@google-scholar-stats/gs_data_shieldsio.json" > /dev/null || true
           else
             echo "No new citation data scraped; keeping last good data on google-scholar-stats."
           fi
