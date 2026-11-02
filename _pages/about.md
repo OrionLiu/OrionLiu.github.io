@@ -19,7 +19,7 @@ redirect_from:
 
 I am **Haotian Liu (刘灏天)**, a PhD student at McGill University since 2026 Fall. I received my Master’s degree from Tongji University, advised by Prof. Xianzhong Zhao, and my bachelor’s degree with honors from Hefei University of Technology.
 
-My research interest includes Embodied Intelligence and Robotic construction.
+My research interests include Embodied Intelligence and Robotic construction.
 
 <!-- I have published more than  papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=a0dHLswAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=a0dHLswAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -35,13 +35,13 @@ My research interest includes Embodied Intelligence and Robotic construction.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RCIM 2026</div><img src='images/RCIM2026-framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A domain-informed learning framework for seam extraction in robotic welding: Generalizing to unseen seam topologies from unstructured workpieces](files/RCIM2026.pdf)
+[A domain-informed learning framework for seam extraction in robotic welding: Generalizing to unseen seam topologies from unstructured workpieces](https://doi.org/10.1016/j.rcim.2026.103326)
 
 Xianzhong Zhao, **Haotian Liu**, Zhaoqi Huang, Yuzhen He
 
 **Robotics and Computer-Integrated Manufacturing**
 
-[**Project**](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=a0dHLswAAAAJ&authuser=2&citation_for_view=a0dHLswAAAAJ:u-x6o8ySG0sC) <strong><span class='show_paper_citations' data='a0dHLswAAAAJ:u-x6o8ySG0sC'></span></strong>
+[**DOI**](https://doi.org/10.1016/j.rcim.2026.103326) <strong><span class='show_paper_citations' data='a0dHLswAAAAJ:u-x6o8ySG0sC'></span></strong>
 
 </div>
 </div>
@@ -50,25 +50,25 @@ Xianzhong Zhao, **Haotian Liu**, Zhaoqi Huang, Yuzhen He
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AIC 2025</div><img src='images/AIC2025-framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Self-adaptive seam detection framework for unmanned structural steel welding robots in unstructured environments](files/AIC2025.pdf)
+[Self-adaptive seam detection framework for unmanned structural steel welding robots in unstructured environments](https://doi.org/10.1016/j.autcon.2025.106221)
 
 Yuzhen He, Zhaoqi Huang, **Haotian Liu**, Jingang Ye, Yujie Lu, Xianzhong Zhao
 
 **Automation in Construction**
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=a0dHLswAAAAJ&citation_for_view=a0dHLswAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='a0dHLswAAAAJ:u5HHmVD_uO8C'></span></strong>
+[**DOI**](https://doi.org/10.1016/j.autcon.2025.106221) <strong><span class='show_paper_citations' data='a0dHLswAAAAJ:u5HHmVD_uO8C'></span></strong>
 
 </div>
 </div>
 
 # 🎖 Honors and Awards
 - *2019-2021* National Scholarship (top1%, highest scholarship) (×3). 
-- *2022* First Prize, 3th International Engineering Mechanics Contest (Asian Region)
+- *2022* First Prize, 3rd International Engineering Mechanics Contest (Asian Region)
 - *2022* First Prize, 5th Anhui Undergraduate Building Information Modeling Application Competition
 - *2022* Outstanding Graduate of Anhui Province & Outstanding Graduate of HFUT.
 - *2019-2021* First Prize, HFUT Outstanding Student Scholarship  (×3)
 
-# 📖 Educations
+# 📖 Education
 - *2022.09 - 2025.07*, Tongji University (Master) , advised by Xianzhong Zhao. 
 - *2018.09 - 2022.06*, Hefei University of Technology (Bachelor). 
 
